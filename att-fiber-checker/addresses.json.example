@@ -1,0 +1,12 @@
+{
+    "addresses": [
+        {
+            "addr_line": "123 my st.",
+            "addr_zip": "12345"
+        },
+        {
+            "addr_line": "123 my st.",
+            "addr_zip": "12345"
+        }
+    ]
+}

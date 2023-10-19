@@ -1,0 +1,11 @@
+{
+    "discord":
+        {
+            "webhook_url": "<Your Discord webhook URL>"
+        },
+    "slack":
+        {
+            "slack_key":"<Your bot's slack API key>",
+            "slack_channel":"<The slack channel to post messages to>"
+        }
+}
