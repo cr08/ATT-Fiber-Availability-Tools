@@ -29,3 +29,4 @@ Takes the raw CSV address database from openaddresses as well as decimal GPS coo
 ## Todo
 
 * Make the `index.html` read the `addresses.db` SQLite database directly, thus eliminating the `make-csv.py` script and extra steps to create the  `hasGig.csv` file
+* Combine some scripts together to streamline the process
